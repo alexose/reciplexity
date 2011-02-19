@@ -1,0 +1,15 @@
+== Reciplexity alpha
+
+= What?
+
+Reciplexity is a tool for creating unusual ingredient combinations based on existing recipe data.
+
+The goal of the project is to find ingredients that should pair well together but don't appear in many recipes.  
+
+Future goals will include adding other dimensions, such as cooking techniques, to the existing data.
+
+= How?
+
+This is a two-part project.  At this time, only the first part is being actively developed.
+    1) Building a useful recipe database
+    2) Clustering ingredents and displaying results.
